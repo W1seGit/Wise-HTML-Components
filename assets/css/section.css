@@ -1,0 +1,18 @@
+/* Top Section */
+
+.top-section{
+    background: rgb(21, 25, 43);
+    height: 50em;
+}
+
+.shape{
+    border-radius: 50%;
+    background: rgb(26, 31, 52);
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+    left: 100px;
+    transition: 0.2s;
+}
