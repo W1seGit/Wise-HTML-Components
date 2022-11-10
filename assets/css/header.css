@@ -1,14 +1,27 @@
 .title{
     color: #fff;
     font-size: 60px;
-    text-align: center;
     font-weight: 600;
     margin-right: 150px;
     margin-left: 150px;
     position: relative;
     z-index: 100;
+    translate: translateY(100%);
+    overflow: hidden;
 }
 
-.span-title{
+header{
+    text-align: center;
+}
+
+.title .span-title{
+    transform: translateY(500%);
+    display: inline-block;
+}
+
+.span-text{
     color: rgb(103, 204, 255);
+    background-image: linear-gradient(120deg, #67ccff 0%, #14fff7 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
