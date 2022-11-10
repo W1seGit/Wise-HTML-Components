@@ -4,11 +4,7 @@ nav{
     height: 85px;
     position: fixed;
     width: 100%;
-<<<<<<< HEAD
     top: 0;  */
-=======
-    top: 0; 
->>>>>>> fa7ec3d16c4a13d216dfebd57e4acb08e99c193e
 }
 
 .navbar{
@@ -37,7 +33,6 @@ nav{
     margin-left: 50px;
     background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
     -webkit-background-clip: text;
-<<<<<<< HEAD
     -webkit-text-fill-color: transparent;
     z-index: inherit;
 }
@@ -45,13 +40,6 @@ nav{
 .nav-button{
     clear: none;
     float: right;
-=======
-    -webkit-text-fill-color: transparent
-}
-
-.nav-button{
-    
->>>>>>> fa7ec3d16c4a13d216dfebd57e4acb08e99c193e
     border-radius: 15px;
     font-size: 20px;
     background: transparent;
@@ -63,11 +51,8 @@ nav{
     width: 200px;
     padding-top: 7px;
     padding-bottom: 7px;
-<<<<<<< HEAD
     transition: 0.2s;
     z-index: inherit;
-=======
->>>>>>> fa7ec3d16c4a13d216dfebd57e4acb08e99c193e
 }
 
 #container {
@@ -75,14 +60,6 @@ nav{
     margin:0 auto;
 }
 
-<<<<<<< HEAD
-=======
-#purchase{
-    clear: none;
-    float: right;
-}
-
->>>>>>> fa7ec3d16c4a13d216dfebd57e4acb08e99c193e
 .nav-button:hover{
     background: rgb(51, 149, 199);
 }
